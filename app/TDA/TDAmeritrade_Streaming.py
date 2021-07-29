@@ -1,5 +1,4 @@
 import asyncio
-import websockets
 import json
 import urllib
 import requests
